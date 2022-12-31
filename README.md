@@ -2,7 +2,11 @@
 
 **`Digital Craftsman (Developer/Electronic/Creator)`**
 
-Soy un desarrollador apasionado por la programación, la electrónica y la ciencia de datos. Una de mis pasiones es enseñar, por eso creo contenido educativo en mi canal de YouTube tratando de mostrar que los problemas reales se pueden resolver con código y ciencia.
+I am a developer passionate about programming, electronics and data science. One of my passions is teaching, that's why I create educational content on my YouTube channel trying to show that real problems can be solved with code and science. 💚
+
+Actively looking to collaborate on new interesting projects.
+
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
