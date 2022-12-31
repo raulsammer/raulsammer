@@ -1,5 +1,5 @@
 # Raul Sammer Quispe Lozano
-
+---
 **`Digital Craftsman (Developer/Electronic/Creator)`**
 
 Industrial Engineering student passionate about programming, electronics and data science. One of my passions is teaching, that's why I create educational content on my YouTube channel, trying to show that real problems can be solved with code and science. 💚
