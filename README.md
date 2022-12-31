@@ -14,5 +14,3 @@ Actively looking to collaborate on new interesting projects.
       <a href="https://www.linkedin.com/in/raulsammer/">
          <img alt="linkedin" title="Know me" src="https://custom-icon-badges.demolab.com/badge/-Check my Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </p>
-   
----
