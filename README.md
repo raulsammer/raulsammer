@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Electronic/Creator)`**
 
-Industrial Engineering student passionate about programming, electronics and data science. One of my passions is teaching, that's why I create educational content on my YouTube channel, trying to show that real problems can be solved with code and science. 💚
+Industrial Engineering student passionate about programming. Trying to show that real problems can be solved with code 💚
 
 Actively looking to collaborate on new interesting projects.
 
